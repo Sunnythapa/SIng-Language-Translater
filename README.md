@@ -1,8 +1,4 @@
 Sing-Language-Translater
-Sign Language Translator (Python + OpenCV + MediaPipe)
-A real-time Sign Language Translator built using Python, OpenCV, and MediaPipe. This application captures hand gestures through a webcam and translates them into corresponding English text, helping bridge communication between deaf/mute individuals and others.
-
-Features:
 
 Real-time hand gesture recognition
 
